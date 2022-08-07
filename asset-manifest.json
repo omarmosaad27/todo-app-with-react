@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/http;//omarmosaad27.github.io/todo-app-with-react/static/css/main.80079b0c.css",
-    "main.js": "/http;//omarmosaad27.github.io/todo-app-with-react/static/js/main.d90f8c1b.js",
-    "static/js/787.5e141d9e.chunk.js": "/http;//omarmosaad27.github.io/todo-app-with-react/static/js/787.5e141d9e.chunk.js",
-    "static/media/bg-desktop-light.jpg": "/http;//omarmosaad27.github.io/todo-app-with-react/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
-    "index.html": "/http;//omarmosaad27.github.io/todo-app-with-react/index.html",
-    "main.80079b0c.css.map": "/http;//omarmosaad27.github.io/todo-app-with-react/static/css/main.80079b0c.css.map",
-    "main.d90f8c1b.js.map": "/http;//omarmosaad27.github.io/todo-app-with-react/static/js/main.d90f8c1b.js.map",
-    "787.5e141d9e.chunk.js.map": "/http;//omarmosaad27.github.io/todo-app-with-react/static/js/787.5e141d9e.chunk.js.map"
+    "main.css": "/todo-app-with-react/static/css/main.62c134b3.css",
+    "main.js": "/todo-app-with-react/static/js/main.1e30bf9d.js",
+    "static/js/787.5e141d9e.chunk.js": "/todo-app-with-react/static/js/787.5e141d9e.chunk.js",
+    "static/media/bg-desktop-light.jpg": "/todo-app-with-react/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "index.html": "/todo-app-with-react/index.html",
+    "main.62c134b3.css.map": "/todo-app-with-react/static/css/main.62c134b3.css.map",
+    "main.1e30bf9d.js.map": "/todo-app-with-react/static/js/main.1e30bf9d.js.map",
+    "787.5e141d9e.chunk.js.map": "/todo-app-with-react/static/js/787.5e141d9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80079b0c.css",
-    "static/js/main.d90f8c1b.js"
+    "static/css/main.62c134b3.css",
+    "static/js/main.1e30bf9d.js"
   ]
 }
